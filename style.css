@@ -216,7 +216,7 @@ body{
 
 }
 .section-2 .sec2 .coin{
-    height: auto;
+    height: 200px;
     width: 425px;
     position: relative;
     bottom: 250px;
