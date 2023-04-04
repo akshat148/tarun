@@ -445,7 +445,7 @@ text-align: center;
 }
 .footer .foot-1{
     position: relative;
-    width: 400px;
+    width: 350px;
     height: 100px;
     display: flex;
     top: 280px;
@@ -465,7 +465,7 @@ text-align: center;
     top: 380px;
     display: flex;
     right: 150px;
-    width: 400px;
+    width: 350px;
     font-family: dancing script;
     color: black;
 }
