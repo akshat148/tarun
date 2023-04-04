@@ -436,7 +436,7 @@ text-align: center;
 }
 .footer{
     background-color: whitesmoke;
-    width: 1349px ;
+    width: 1180px ;
     height: 500px;
     margin: 0px;
     padding: 20px;
@@ -445,7 +445,7 @@ text-align: center;
 }
 .footer .foot-1{
     position: relative;
-    width: 250px;
+    width: 295px;
     height: 100px;
     display: flex;
     top: 280px;
@@ -465,7 +465,7 @@ text-align: center;
     top: 380px;
     display: flex;
     right: 150px;
-    width: 250px;
+    width: 295px;
     font-family: dancing script;
     color: black;
 }
