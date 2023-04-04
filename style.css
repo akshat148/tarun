@@ -139,13 +139,13 @@ body{
     transform: scale(1.2);
 }
 .section-1{
-    width: 1220px;
+    width: 1335px;
     height: auto;
     justify-content: space-evenly;
     padding: 0px;
 }
 .section-1 .sec1 .logo{
-    width: 1228px;
+    width: 1335px;
     height: 565px;
     position: relative;
 }
