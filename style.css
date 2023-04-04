@@ -43,7 +43,7 @@ body{
 }
 .header .header-nav .header-container .header-logo .logo{
     height: 62px;
-    width: 1335px;
+    width: auto;
     bottom: 10px;
     position: relative;
     color: goldenrod;
